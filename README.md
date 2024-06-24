@@ -1,2 +1,2 @@
 # Tic_Tac_Toe_bot
-This aiogram bot was crated for playing Tic Tac Toe with AI
+This aiogram bot was created for playing Tic Tac Toe with AI
